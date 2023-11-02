@@ -4,3 +4,66 @@ body{
     background-color: black;
     color: white;
 }
+#nav img{
+    background-color: red;
+    padding: 3px;
+}
+#nav{
+display: flex;
+font-size: 20px;    
+background-color: white;
+color: black;
+}
+#nav strong{
+    color: red;
+   position: relative;
+   left: 5px;
+   top: 3px;
+}
+ul{
+    font-style: italic;
+    font-size:medium;
+    word-spacing: 5px;
+    padding: 0%;
+    border: 0%;
+    margin: 0%;
+}
+#direita{
+    position: relative;
+    top: 6px;
+    left: 860px;
+}
+#esquerda{
+    position: relative;
+    top: 6px;
+    left: 15px;
+}
+h2{
+   font-size:medium; 
+}
+#video video{
+    position: absolute;
+    height: 50%;
+    width: 50%;
+    left: 25%;
+}
+#dropbox{
+    word-spacing: normal;
+    background-color: aqua;
+}
+#prod{background-color: aquamarine;}
+#solu{background-color:darkturquoise;    }
+#pri{background-color:cyan;}
+#start{
+    word-spacing: normal;
+    background-color:lightskyblue;
+}
+#login{background-color: lightseagreen;}
+#cont{background-color:aquamarine;}
+#sign{background-color:cadetblue;}
+
+
+
+
+
+
